@@ -1,0 +1,22 @@
+{
+  "name": "discord_strava_bot",
+  "version": "1.0.0",
+  "description": "A discord bot that uses the Strava API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanavbengani/Discord-Strava-Bot.git"
+  },
+  "author": "Kanav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanavbengani/Discord-Strava-Bot/issues"
+  },
+  "homepage": "https://github.com/kanavbengani/Discord-Strava-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
